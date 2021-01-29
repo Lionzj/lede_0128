@@ -12,7 +12,7 @@
 
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 git clone https://github.com/kenzok8/small.git package/small
-git clone https://github.com/tty228/luci-app-serverchan.git package/lean
+git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
